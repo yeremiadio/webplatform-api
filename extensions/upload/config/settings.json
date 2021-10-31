@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "yeremia-alfa-dio",
+    "api_key": "484792812725492",
+    "api_secret": "OsU6vQJz6tYNqb5R4vngjwUFrSI"
+  }
+}
